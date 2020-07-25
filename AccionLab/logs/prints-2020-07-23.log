@@ -1,0 +1,8 @@
+23:23:52.899 [TestNG] INFO  resources.Base - Navigated to home page
+23:23:52.978 [TestNG] INFO  resources.Base - Navigated to home page
+23:23:54.925 [TestNG] INFO  resources.Base - Item is added to cart
+23:23:57.937 [TestNG] INFO  resources.Base - testdata set 1
+23:24:43.651 [TestNG] INFO  resources.Base - Driver is initialized
+23:24:44.178 [TestNG] INFO  resources.Base - Navigated to home page
+23:24:48.730 [TestNG] INFO  resources.Base - testdata set 1
+23:24:54.890 [TestNG] INFO  resources.Base - Item is added to cart

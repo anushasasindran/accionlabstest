@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite parallel="tests" name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="TestCases.Listeners"/>
+  </listeners>
+  <test parallel="tests" name="Validating User login(failed)">
+    <classes>
+      <class name="TestCases.HomePage">
+        <methods>
+          <include name="initialize"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- TestCases.HomePage -->
+      <class name="TestCases.AddItemsToCart">
+        <methods>
+          <include name="initialize"/>
+          <include name="initialize"/>
+          <include name="Addcart"/>
+        </methods>
+      </class> <!-- TestCases.AddItemsToCart -->
+    </classes>
+  </test> <!-- Validating User login(failed) -->
+</suite> <!-- Failed suite [Suite] -->
